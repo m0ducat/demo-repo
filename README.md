@@ -1,3 +1,3 @@
 # Hello World
 
-This is just a beginner repo to start my coding journey. 
+This is just a beginner repository to start my coding journey. 
